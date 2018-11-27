@@ -39,13 +39,14 @@ for (var i = 0; i < string.length; i++){
 return data;
 }
 
-function prop_access(){
+// function prop_access(){
 
-}
+
+// }
 
 
 // console.log(ucfirst('coucou'));
 // console.log(capitalize('bonjour amandine'));
 // console.log(camelCase('bonjour amandine la boss'));
 // console.log(snake_case('bonjour amandine la boss'));
-// console.log(leet('amandine'));
+ //console.log(leet('amandine'));
