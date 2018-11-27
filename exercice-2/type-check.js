@@ -8,6 +8,9 @@ function type_check_v1(object ,string){
     else if(Array.isArray(object) == true && string =="array"){
         return true;
     }
+    else if(object == undefined && string == "undefined"){
+        return true;
+    }
     else{
         return false;
     }
